@@ -2,3 +2,4 @@
 d.dat filter=lfs diff=lfs merge=lfs -text
 d2.dat filter=lfs diff=lfs merge=lfs -text
 *.dat filter=lfs diff=lfs merge=lfs -text
+d.art filter=lfs diff=lfs merge=lfs -text
